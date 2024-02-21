@@ -1,0 +1,14 @@
+Data Types:
+Words: char, string
+Numbers: int, float, double
+True/False: bool
+
+1. char
+2. string: find, substr, length(), 
+3. numbers/math: fmax/fmin, ceil/floor, round, pow, sqrt
+4. bool
+5. Arrays
+
+1. Pointers 
+2. Recursion, Error Handling 
+
